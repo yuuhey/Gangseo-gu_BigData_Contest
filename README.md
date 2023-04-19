@@ -6,7 +6,7 @@
 
 ## 1. 프로젝트 요약
 
-**분석 보고서에 더 상세한 내용이 첨부되어 있습니다.**
+**[분석 보고서](https://file.notion.so/f/s/dd74ebe3-a3f6-4687-ad70-c9a8c73ad545/%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5.pdf?id=1c1983d5-8f2b-4c78-96ea-0fd8b9e42812&table=block&spaceId=fea2b22d-6c7c-4617-a22f-7f5dffb0b189&expirationTimestamp=1682015951933&signature=yiH3_NPG7ZZdbCvzmlYHKuwjTKBRmVXlzXfFDEHDQJ4&downloadName=%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5.pdf)에 더 상세한 내용이 첨부되어 있습니다.**
 
 ### (1) 분석 개요
 
